@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pract8_Pankrateva", "Pract8_Pankrateva.vcxproj", "{DCB5E41A-67D3-4FE6-8827-F62249A0468B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Debug|x64.ActiveCfg = Debug|x64
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Debug|x64.Build.0 = Debug|x64
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Debug|x86.Build.0 = Debug|Win32
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Release|x64.ActiveCfg = Release|x64
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Release|x64.Build.0 = Release|x64
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Release|x86.ActiveCfg = Release|Win32
+		{DCB5E41A-67D3-4FE6-8827-F62249A0468B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {127EB841-F058-4B90-B4D3-891045E31A4E}
+	EndGlobalSection
+EndGlobal
